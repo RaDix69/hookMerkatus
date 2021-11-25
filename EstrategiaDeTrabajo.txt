@@ -1,0 +1,9 @@
+Estrategia de trabajo grupo NosVivere 
+La estrategia de trabajo que hemos desarrollado se basa en trabajo en conjunto en git hub dividiendo tareas de FrontEnd, BackEnd y Testing 
+De tal manera las tareas estan asignadas asi:
+
+La persona encargada del backend es Santiago Sierra
+La persona encargada del testing es Ronal Diaz
+Y la persona encargada del frontend es Jeremi Zapata
+
+Esta estrategia de trabajo se desarrollara en el mismo repositorio de github y rama actualizando constantemente el proyecto Merkatus 
