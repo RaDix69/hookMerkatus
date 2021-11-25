@@ -1,5 +1,5 @@
 <?php 
-$servidor="localhost";
+$servidor="sql437.main-hosting.eu";
 $port="3306";
 $usuario="u991668360_Merkatus";
 $password="Merkatus123";
