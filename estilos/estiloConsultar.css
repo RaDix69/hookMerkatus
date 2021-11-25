@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    background-image: url(../img/fondo2.jpg); 
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    font-family: 'Signika Negative', sans-serif;
+}
+.tabla{
+    border: none;
+    width: 800px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 5px;
+}
+th, td{
+    border-radius: 5px;
+    padding: 7px;
+}
+td{
+    border:1px solid  ;
+
+}
+th{
+    
+    padding: 20px;
+    background-color: rgb(119, 119, 119);
+
+    color: white;
+}
+tr:nth-child(even){
+    background-color: (255,255,255,0.5);
+}
+tr:hover{
+    background-color: rgb(200, 230, 255);
+}
+.boton{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0,8);
+    color: white;
+}
+.boton:hover{
+    background-color: rgba(255,255,255,0.5);
+    border: 2px solid rgba(0, 0, 0,8);
+    color: black;
+}
+a{
+    text-decoration: none;
+    
+}
+.re{
+    margin-top: 20px;
+    margin-bottom: 20px;  
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0,8);
+}
+.re:hover{
+    background-color: rgba(255,255,255,0.5);
+    border: 2px solid rgba(0, 0, 0,8);
+    color: black;
+}
+.re a{
+    color: #fff;
+}
+.titulo{
+    color: #fff;
+}

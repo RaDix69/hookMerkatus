@@ -1,0 +1,2 @@
+la aplicación se actualizo, haciendo una validación de archivos
+para que al momento de subir algun tipo de archivo solo acepte imagenes y asi evitar errores
